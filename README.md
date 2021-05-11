@@ -4,7 +4,7 @@
 
 I am ItsArtemiz
 
-- 🔭 I’m currently working on a discord bot [RoUtils](https://github.com/ItsArtemiz/RoUtils). (It is currently private)
+- 🔭 I’m currently working on a discord bot [RoUtils](https://github.com/ItsArtemiz/RoUtils) and [DSCN](https://github.com/Team-DSCN/DSCN-Bot).
 - 🌱 I’m currently learning [python](https://www.python.org/).
 - 💬 Ask me about some basic of discord bots.
 - 📫 How to reach me: Discord: [ItsArtemiz#8858](https://discord.com/users/449897807936225290)
