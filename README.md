@@ -8,5 +8,5 @@ I am Augadh Verma
 
 
 ### Status
-[![ItsArtemiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsArtemiz&count_private=true&theme=algolia)](https://github-readme-stats.vercel.app/api?username=ItsArtemiz&count_private=true&theme=algolia)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsArtemiz&theme=algolia)](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsArtemiz&theme=algolia)
+[![Augadh's GitHub stats](https://github-readme-stats.vercel.app/api?username=augadhverma&count_private=true&theme=algolia)](https://github-readme-stats.vercel.app/api?username=augadhverma&count_private=true&theme=algolia)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=augadhverma&theme=algolia)](https://github-readme-stats.vercel.app/api/top-langs/?username=augadhverma&theme=algolia)
